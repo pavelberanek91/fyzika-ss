@@ -78,7 +78,7 @@ Za jak dlouho odčerpáme vodu o objemu 1 cm3 pokud bychom za 1 s odčerpali mil
 [1E9 roků] 
 
 ### Př.B4 - Velikost molekuly H2O
-Odhadněte pomocí Avogadrovy konstanty průměr molekuly vody.
+Odhadněte pomocí Avogadrovy konstanty průměr molekuly vody. Přepokládejte, že molekula má tvar krychle.
 
 [0.3 nm]
 
@@ -87,7 +87,7 @@ Odhadněte pomocí Avogadrovy konstanty průměr molekuly vody.
 ## Obtížnost C - Může
 
 ### Př.C1 - Voda vs. rtuť
-Mějme dvě stejně velké nádoby po okraj naplněné. V jedné nádobě se nachází voda a ve druhé rtuť. Kolikrát více je molekul vody v nádobě než atomů rtuti?
+Mějme dvě stejně velké nádoby po okraj naplněné. V jedné nádobě se nachází voda a ve druhé rtuť. Kolikrát více je atomů vody (ne molekul!) v nádobě než atomů rtuti?
 
 [2.5 krát]
 
