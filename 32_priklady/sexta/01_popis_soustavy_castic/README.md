@@ -20,7 +20,8 @@
 * relativní atomová hmotnost chloru = 35.4
 * relativní atomová hmotnost vápníku = 40
 * relativní atomová hmotnost mědi = 63.54
-* relativní atomová hmotnosti stříbra = 107.9
+* relativní atomová hmotnost stříbra = 107.9
+* relativní atomová hmotnost zlata = 197
 * relativní atomová hmotnost rtuti = 200.6
 
 #### molární hmotnosti
