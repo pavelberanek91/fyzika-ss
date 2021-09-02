@@ -97,7 +97,7 @@ Do jezera, které má průměrnou hloubku 10 m a povrch o obsahu 10 km2, byl vho
 [2E6 intů chloru]
 
 ### Př.C3 - Vypaření benzinu
-Z povrchu kapky benzinu o objemu 10 mm2 se vypaří za dobu 1 s průměrně 1E18 molekul. Za jakou dobu se vypaří celá kapka?
+Z povrchu kapky benzinu o objemu 10 mm3 se vypaří za dobu 1 s průměrně 1E18 molekul. Za jakou dobu se vypaří celá kapka?
 
 [39 s]
 
