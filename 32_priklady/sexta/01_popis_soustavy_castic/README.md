@@ -15,7 +15,9 @@
 * relativní atomová hmotnost uhlíku = 12
 * relativní atomová hmotnosti dusíku = 14
 * relativní atomová hmotnost kyslíku = 16
+* relativní atomová hmotnost sodíku = 23
 * relativní atomová hmotnost síry = 32
+* relativní atomová hmotnost chloru = 35.4
 * relativní atomová hmotnost vápníku = 40
 * relativní atomová hmotnost mědi = 63.54
 * relativní atomová hmotnosti stříbra = 107.9
@@ -51,7 +53,7 @@ Jakou hmotnost má 0.25 molů síry?
 [8 g]
 
 ### Př.A5 - Vejde se do válce?
-Vejde se do odměrného válce o objemu 10 cm3 boda o látkovém množství 1 mol?
+Vejde se do odměrného válce o objemu 10 cm3 voda o látkovém množství 1 mol?
 
 [ne]
 
@@ -84,12 +86,12 @@ Odhadněte pomocí Avogadrovy konstanty průměr molekuly vody.
 ## Obtížnost C - Může
 
 ### Př.C1 - Voda vs. rtuť
-Mějme dvě stejně velké nádoby po okraj naplněné. V jedné nádobě se nachází voda a ve druhé rtuť. Kolikrát více je molekul vody v nádobě než atomů rtuti?.
+Mějme dvě stejně velké nádoby po okraj naplněné. V jedné nádobě se nachází voda a ve druhé rtuť. Kolikrát více je molekul vody v nádobě než atomů rtuti?
 
 [2.5 krát]
 
 ### Př.C2 - Sůl v jezeře
-Do jezera, které má průměrnou hloubku 10 m a povrch o obsahu 10 km2, byl vhozen krystal kamenné soli NaCl o hmotnosti 0.01 g. Předpokládejme, že se tento krystal soli rozpustil v objemu jezera rovnoměrně. Hustota vody je 1000 kg/m3, relativní atomová hmotnost sodíku je 23, chloru 35.4 a atomová hmotností konstanta je 1.66E-27 kg. Určete, kolik iontů chloru by obsahoval náprstek vody z tohoto jezera. Náprstek má objem 2 cm3. Je to v poměru s velikostí jezera hodně nebo málo? Tipněte si před započetím řešení kolik by to tak mohlo být a porovnejte váš odhad s výpočtem.
+Do jezera, které má průměrnou hloubku 10 m a povrch o obsahu 10 km2, byl vhozen krystal kamenné soli NaCl o hmotnosti 0.01 g. Předpokládejme, že se tento krystal soli rozpustil v objemu jezera rovnoměrně. Určete, kolik iontů chloru by obsahoval náprstek vody z tohoto jezera. Náprstek má objem 2 cm3. Je to v poměru s velikostí jezera hodně nebo málo?
 
 [2E6 intů chloru]
 
