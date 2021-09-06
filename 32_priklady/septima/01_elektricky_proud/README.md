@@ -68,7 +68,7 @@ Elektrický proud se během 10 s rovnoměrně zvětšoval z 0 A na hodnotu 3 A. 
 [15 C]
 
 ### Př.C2 - Vodivostní elektrony
-Určete hustotu vodivostních elektronů a celkový náboj elektronův krychličce mědi o objemu 1 mm3. Na každý atom mědi připadá jeden vodivostní elektron,
+Určete hustotu vodivostních elektronů a celkový náboj elektronů v krychličce mědi o objemu 1 mm3. Na každý atom mědi připadá jeden vodivostní elektron,
 
 [8.5E28 m-3; 14 C]
 
