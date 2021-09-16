@@ -40,7 +40,7 @@ Měděné vinutí elektromagnetu elektrického motoru má odpor 750 Ohmů při t
 ## Obtížnost B - měl by
 
 ### Př. B1 - Zkratované vedení
-Ve dvou měděných drátech telefonního vedení uloženého pod zemí nastalo krátké spojení. Při určování polohy poškozeného místa kabelu bylo pomocí ohmmetru zjištěno, že zkratované vedení má odpor 0.5 Ohmu. Průřez jednoho drátu má plošný obsa 0.4 mm2. V jaké vzdálenosti od místa měření je možné hledat poškozené místo kabelu? 
+Ve dvou měděných drátech telefonního vedení uloženého pod zemí nastalo krátké spojení. Při určování polohy poškozeného místa kabelu bylo pomocí ohmmetru zjištěno, že zkratované vedení má odpor 6.5 Ohmu. Průřez jednoho drátu má plošný obsa 0.4 mm2. V jaké vzdálenosti od místa měření je možné hledat poškozené místo kabelu? 
 
 Nápověda: pro odpor zkratovaného vedení platí R = rho * 2 * L / S
 
